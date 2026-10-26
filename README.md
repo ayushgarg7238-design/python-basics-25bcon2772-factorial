@@ -42,6 +42,6 @@ python factorial.py
 
 This program is part of a collection of beginner programming exercises converted from C++ to Python.
 
-- [Fibonacci Program](https://github.com/HARSH1-rgb/python-basics-25bcon1092-fibonacci) — generates the Fibonacci series.
-- [Struct to Dictionary](https://github.com/HARSH1-rgb/python-basics-25bcon1092-struct-to--dict) — demonstrates the conversion of a C++ structure-based approach into a Python dictionary.
+- [Fibonacci Program](https://github.com/ayushgarg7238-design/python-basics-25bcon2772-fibonacci) — generates the Fibonacci series.
+- [Struct to Dictionary](https://github.com/ayushgarg7238-design/python-basics-25bcon2772-struct-to--dict) — demonstrates the conversion of a C++ structure-based approach into a Python dictionary.
 
